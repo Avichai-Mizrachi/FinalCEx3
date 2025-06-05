@@ -17,9 +17,9 @@ make
 
 This will produce two executables: isort and txtfind.
 
-Usage
+## Usage
 
-isort
+### isort
 
 After compilation, run the program using:
 
