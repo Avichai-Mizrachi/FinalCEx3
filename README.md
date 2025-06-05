@@ -39,3 +39,7 @@ Run the program using:
 
 The program will prompt you to enter a text and a search term.
 It will then display lines or words from the text that match the search term.
+
+## Project by
+
+Avichai Mizrachi
