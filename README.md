@@ -1,4 +1,4 @@
-# FinalCEx3
+# Text Finder and Integer Sorter in C
 
 This project consists of two C programs: `isort` and `txtfind`, each demonstrating fundamental string manipulation and search functionalities.
 
